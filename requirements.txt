@@ -1,0 +1,25 @@
+# Core App Framework
+streamlit
+altair
+
+# Data Manipulation
+pandas
+numpy
+
+# Data Fetching
+yfinance
+
+# Plotting
+matplotlib
+
+# Time Series Analysis
+statsmodels
+scipy
+
+# Forecasting Models
+prophet
+scikit-learn
+tensorflow
+
+# Miscellaneous
+pathlib
