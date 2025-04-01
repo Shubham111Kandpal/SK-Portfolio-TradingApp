@@ -1,6 +1,7 @@
 # 📊 SK Portfolio & Trading Tool
 
 A comprehensive and interactive **Streamlit application** for stock market analysis, technical examination, and time series forecasting using statistical and deep learning models. Built and maintained by **[Shubham Kandpal](https://www.linkedin.com/in/shubham-kandpal-035711165)**.
+https://skportfolio.streamlit.app/
 
 ---
 
